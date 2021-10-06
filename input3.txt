@@ -1,0 +1,2 @@
+(x>y), x = 100, y= 60; /* Expect value = 1*/
+(x>y), x = 9, y = 20; /* Expect value = 0*/

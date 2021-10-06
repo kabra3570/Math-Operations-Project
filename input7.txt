@@ -1,0 +1,1 @@
+(x:y?(c>10)),x=2,y=4,c=1; /* Expect value = 4*/
